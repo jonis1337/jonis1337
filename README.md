@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020 <br>📚 I'm currently a third year cs student<br>🎯 Goals: 10x dev</p>
+<p align="left">✨ Creating bugs since 2019 <br>📚 I'm currently a third year cs student<br>🎯 Goals: 10x dev</p>
 
 ###
 
